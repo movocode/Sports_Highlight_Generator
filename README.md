@@ -7,6 +7,8 @@ In a manual process, a video editor has to run through the entire game, identify
 ## What it does
 A Deep Learning Model to generate automatically generate highlights from a sports video Highlight-Detection-in-Sports-Videos-using-Audience-Reaction Highlights in a sports video are the key exciting moments in the match which attract the attention of the spectators in the match.
 
+Project Demo: https://youtu.be/YmUVbaCkLxI
+
 Original Video Link: https://www.youtube.com/watch?v=CGFgHjeEkbY
 
 Highlight generated video: https://youtu.be/HagUinMhpbg
